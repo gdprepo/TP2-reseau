@@ -26,10 +26,16 @@ Calcule de l'adresse IP, du masque de sous réseau, l'adresse broadcast, gateway
 * **Broadcast** 10 33 3 255
 * **Gateway** 10.33.3.252
 
-> Nous avons du allez dans les paramètres windows,
+> Nous avons du aller dans les paramètres windows,
 > ensuite dans réseau et internet, en bas de la fenetre cliquez sur **Afficher vos propriétés réseau**
 > > Le gateway dans le réseau ingésup est utilisé pour avoir accés a un internet
 
+<img src="https://github.com/wewlr17/TP2-reseau/blob/master/tp%20iot/changetip.PNG">
+
+> A partir du logiciel zenmap, on a pu récuperer la liste des Ip déja utilisé
+
+<img src="https://github.com/wewlr17/TP2-reseau/blob/master/tp%20iot/zenmap.PNG">
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0MDQ2NjU4MSwtMTc5OTQxODMwN119
+eyJoaXN0b3J5IjpbLTE3OTk0MTgzMDddfQ==
 -->
