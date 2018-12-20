@@ -9,7 +9,7 @@
  * l'adresse IP 
  * ainsi que l'adresse MAC.
  
- IMAGE IP WIFI
+ <img src="https://github.com/wewlr17/TP2-reseau/blob/master/tp%20iot/ip%20wifi.PNG">
  IMAGE IP ETHERNET
 
 ### 1.2 Modification des informations
