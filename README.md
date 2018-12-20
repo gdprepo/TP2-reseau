@@ -37,5 +37,5 @@ Calcule de l'adresse IP, du masque de sous réseau, l'adresse broadcast, gateway
 <img src="https://github.com/wewlr17/TP2-reseau/blob/master/tp%20iot/zenmap.PNG">
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTk0MTgzMDddfQ==
+eyJoaXN0b3J5IjpbMzMzMDg5NjI4LC0xNzk5NDE4MzA3XX0=
 -->
