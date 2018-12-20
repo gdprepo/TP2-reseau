@@ -31,5 +31,5 @@ Calcule de l'adresse IP, du masque de sous réseau, l'adresse broadcast, gateway
 > > Le gateway dans le réseau ingésup est utilisé pour avoir accés a un internet
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTk0MTgzMDddfQ==
+eyJoaXN0b3J5IjpbMTE0MDQ2NjU4MSwtMTc5OTQxODMwN119
 -->
