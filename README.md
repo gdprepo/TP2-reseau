@@ -31,6 +31,7 @@ Calcule de l'adresse IP, du masque de sous réseau, l'adresse broadcast, gateway
 > > Le gateway dans le réseau ingésup est utilisé pour avoir accés a un internet
 
 <img src="https://github.com/wewlr17/TP2-reseau/blob/master/tp%20iot/changetip.PNG">
+<img src="https://github.com/wewlr17/TP2-reseau/blob/master/tp%20iot/ipv4.PNG">
 
 > A partir du logiciel zenmap, on a pu récuperer la liste des Ip déja utilisé
 
