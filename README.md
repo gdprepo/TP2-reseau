@@ -1,4 +1,4 @@
-# TP2 LEVEIL Florian B1B
+# TP2 DEPAIRE Gabin B1B
 
 ## I. Exploration locale en solo
 
