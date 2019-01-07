@@ -221,6 +221,8 @@ Serveurs DNS. . .  . . . . . . . . . . : 10.33.10.20
 ```
 #### nslookup:
 #### lookup:
+La commande sert à afficher l'addresse du domaine.
+
 * Pour  `google.com`
 ```
 PS C:\Users\Gabin> nslookup
@@ -271,7 +273,7 @@ Address:  92.16.54.88
 
 * Résultats
 
-La commande sert à afficher l'addresse du domaine.
+Nous avons affiché le nom du serveur l'adresse ainsi que le nom de l'host et son adresse.
 
 
 <!--stackedit_data:
