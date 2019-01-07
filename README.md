@@ -208,6 +208,7 @@ Nous avons essayé de nous Ping avec ceci mais ça ne marche pas !
  * Date d'expiration du bail DHCP:
  <img src="./TP2%20Screen/BailDHCP.PNG">
  * Nouvelle adresse IP (en ligne de commande):
+
 ### 2. DNS
 #### nslookup:
 #### lookup:
@@ -218,10 +219,6 @@ Nous avons essayé de nous Ping avec ceci mais ça ne marche pas !
 * pour l'adresse  `78.78.21.21`
 * pour l'adresse  `92.16.54.88`
 * Résultats
-
-
-
-
 
 
 
