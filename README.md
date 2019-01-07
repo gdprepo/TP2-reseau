@@ -202,6 +202,21 @@ Gestion protocole:
 
 Nous avons essayé de nous Ping avec ceci mais ça ne marche pas !
 
+## III. Manipulations d'autres outils/protocoles côté client
+### 1. DHCP
+ * Adresse IP du serveur DHCP du réseau WiFi:
+ *  Date d'expiration du bail DHCP:
+ *   Nouvelle adresse IP (en ligne de commande):
+### 2. DNS
+#### nslookup:
+#### lookup:
+* Pour  `google.com`
+* Pour  `ynov.com`
+* Résultats de ces commandes
+#### reverse lookup_ :
+* pour l'adresse  `78.78.21.21`
+* pour l'adresse  `92.16.54.88`
+* Résultats
 
 
 
@@ -211,8 +226,9 @@ Nous avons essayé de nous Ping avec ceci mais ça ne marche pas !
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODYzNjY4MzExLC0zNDkyNDI2MzEsMTE3MD
-AwNjg0OCwtMTc4NzY2OTM4MSw4NzUwMjgxODQsMTAyNDU0Miwx
-OTk0NjE0MTQzLC02OTQ3ODc3NTksMTMxMTEwNTg2MCwxMTM5ND
-QwNDU1LDE4NTA4MzI2NSwtMTkzNjkyMzkzOV19
+eyJoaXN0b3J5IjpbLTE4ODE3NjE0MTIsLTEyOTA5NTY5NDAsLT
+M0OTI0MjYzMSwxMTcwMDA2ODQ4LC0xNzg3NjY5MzgxLDg3NTAy
+ODE4NCwxMDI0NTQyLDE5OTQ2MTQxNDMsLTY5NDc4Nzc1OSwxMz
+ExMTA1ODYwLDExMzk0NDA0NTUsMTg1MDgzMjY1LC0xOTM2OTIz
+OTM5XX0=
 -->
