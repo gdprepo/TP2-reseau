@@ -273,7 +273,7 @@ Address:  92.16.54.88
 
 * Résultats
 
-Nous avons affiché le nom du serveur l'adresse ainsi que le nom de l'host et son adresse.
+Nous avons affiché le nom du serveur, l'adresse ainsi que le nom de l'host et son adresse.
 
 
 <!--stackedit_data:
