@@ -213,12 +213,12 @@ Nous avons essayé de nous Ping avec ceci mais ça ne marche pas !
 <img src="./TP2%20Screen/3.PNG">
 
 ### 2. DNS
-'''
+```
 ipconfig /all
 Serveurs DNS. . .  . . . . . . . . . . : 10.33.10.20
                                        10.33.10.7
                                        8.8.8.8
-'''
+```
 #### nslookup:
 #### lookup:
 * Pour  `google.com`
