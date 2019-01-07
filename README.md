@@ -222,14 +222,56 @@ Serveurs DNS. . .  . . . . . . . . . . : 10.33.10.20
 #### nslookup:
 #### lookup:
 * Pour  `google.com`
+```
+PS C:\Users\Gabin> nslookup
+Serveur par dΘfaut :   UnKnown
+Address:  10.33.10.20
+
+> lookup google.com
+Serveur :   google.com
+Addresses:  2a00:1450:4007:810::200e
+          216.58.213.142
+
+```
+
 * Pour  `ynov.com`
+```
+> lookup ynov.com
+Serveur :   ynov.com
+Address:  217.70.184.38
+
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+*** Le délai de la requête sur ynov.com est dépassé.
+>
+```
+
 * Résultats de ces commandes
 #### reverse lookup_ :
 * pour l'adresse  `78.78.21.21`
+```
+PS C:\Users\Gabin> nslookup 78.78.21.21
+Serveur :   UnKnown
+Address:  10.33.10.20
+
+Nom :    host-78-78-21-21.mobileonline.telia.com
+Address:  78.78.21.21
+```
 * pour l'adresse  `92.16.54.88`
+```
+PS C:\Users\Gabin> nslookup 92.16.54.88
+Serveur :   UnKnown
+Address:  10.33.10.20
+
+Nom :    host-92-16-54-88.as13285.net
+Address:  92.16.54.88
+```
+
 * Résultats
 
-
+La commande sert à afficher l'addresse du domaine.
 
 
 <!--stackedit_data:
