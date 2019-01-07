@@ -206,6 +206,7 @@ Nous avons essayé de nous Ping avec ceci mais ça ne marche pas !
 ### 1. DHCP
  * Adresse IP du serveur DHCP du réseau WiFi: 10.33.3.254
  * Date d'expiration du bail DHCP:
+ <img src="./TP2%20Screen/bailDHCP.PNG">
  * Nouvelle adresse IP (en ligne de commande):
 ### 2. DNS
 #### nslookup:
