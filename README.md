@@ -169,8 +169,50 @@ Quand mon collègue ce connecte à internet via mon pc:
 * J'ai une version Insider de Windows je n'ai pas l'option "Ethernet"
 
 <img src="./TP2%20Screen/capture12.PNG">
+
+### Chat privé
+Une fois sur le même réseau et avec le même port ça donne ça:
+<img src="./TP2%20Screen/Capture13.PNG">
+
+### Wirechark
+Pendant un ping et un message:
+
+<img src="./TP2%20Screen/capture14.PNG">
+
+Voici les trames concernant les messages en question:
+
+<img src="./TP2%20Screen/capture15.PNG">
+
+Trier les trames avec "tcp.stream eq 0":
+
+<img src="./TP2%20Screen/capture16.PNG">
+
+### Firewall
+Gestion des règles:
+
+<img src="./TP2%20Screen/capture17.PNG">
+
+Gestion IP:
+
+<img src="./TP2%20Screen/capture18.PNG">
+
+Gestion protocole:
+
+<img src="./TP2%20Screen/capture19.PNG">
+
+Nous avons essayé de nous Ping avec ceci mais ça ne marche pas !
+
+
+
+
+
+
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODc2NjkzODEsODc1MDI4MTg0LDEwMj
-Q1NDIsMTk5NDYxNDE0MywtNjk0Nzg3NzU5LDEzMTExMDU4NjAs
-MTEzOTQ0MDQ1NSwxODUwODMyNjUsLTE5MzY5MjM5MzldfQ==
+eyJoaXN0b3J5IjpbODYzNjY4MzExLC0zNDkyNDI2MzEsMTE3MD
+AwNjg0OCwtMTc4NzY2OTM4MSw4NzUwMjgxODQsMTAyNDU0Miwx
+OTk0NjE0MTQzLC02OTQ3ODc3NTksMTMxMTEwNTg2MCwxMTM5ND
+QwNDU1LDE4NTA4MzI2NSwtMTkzNjkyMzkzOV19
 -->
